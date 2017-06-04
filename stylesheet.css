@@ -1,0 +1,40 @@
+.background
+{
+    background-image: url("images/back-color.png");
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+#wrapper {
+  margin-right: auto;
+  margin-left: auto;
+  width: 97.9166667%;
+  max-width: 960px;
+}
+.header
+{
+    padding-top: 2%;
+    text-align: center;
+}
+.image_one
+{
+    float: left;
+    margin: 0px 15px 15px 0px;
+}
+.cover
+{
+    float: left;
+    margin: 0px 15px 15px 0px;
+}
+.resume
+{
+    float: left;
+    margin: 0px 15px 15px 0px;
+}
+.github
+{
+    float: left;
+    margin: 0px 15px 15px 0px;
+}
+.container
+{
+    padding-top: 24.5%;
+}
